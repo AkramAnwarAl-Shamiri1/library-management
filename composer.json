@@ -1,0 +1,11 @@
+{
+    "name": "library-management/project",
+    "require": {
+        "monolog/monolog": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "LibrarySystem\\": "src/LibrarySystem/"
+        }
+    }
+}
