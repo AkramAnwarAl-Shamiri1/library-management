@@ -22,7 +22,7 @@ System Interface Preview:
 How to Use:
 1. Open the project on XAMPP or any local server.
 2. Place the files inside the htdocs folder.
-3. Go to http://localhost/Library Management/index.php to view the system interface.
+3. Go to http://localhost/LibraryManagement/index.php to view the system interface.
 4. Add a new user and choose their type (Member or Librarian).
 5. If you are a Librarian, you can add/delete books and upload files.
 6. If you are a Member, you can borrow books and rate them.
