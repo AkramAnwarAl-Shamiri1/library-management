@@ -15,9 +15,9 @@ Viewing the operation log (Logs) with success, error, and warning highlights.
 Email notifications.
 
 System Interface Preview:
-Library 1
-Library 2
-Library 3
+[Library 1](imag/library.png)
+[Library 2](imag/library2.png)
+[Library 3](imag/library3.png)
 
 How to Use:
 1. Open the project on XAMPP or any local server.
